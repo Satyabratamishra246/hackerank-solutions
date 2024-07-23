@@ -1,5 +1,8 @@
 ## Code References
 
+<details>
+<summary> <basic-select></summary>
+
 No. | Basic Select      |
 |---|-------------------|
 1   | [Revising select query I](https://github.com/Satyabratamishra246/hackerank-solutions/blob/59e897a86ae7036471a64ca4633bbff3fda241de/sql/basic-select/Revising%20the%20Select%20Query%20I.sql) |
@@ -23,5 +26,5 @@ No. | Basic Select      |
 19  | [Employee names](https://github.com/Satyabratamishra246/hackerank-solutions/blob/5a82d0c880287adc2051fd2efeadc462a482c654/sql/basic-select/Employee%20Names.sql) |
 20  | [Employees salaries](https://github.com/Satyabratamishra246/hackerank-solutions/blob/5a82d0c880287adc2051fd2efeadc462a482c654/sql/basic-select/Employee%20Salaries.sql) |
 
-
+</details>
 
