@@ -1,7 +1,7 @@
 ## Code References
 
 <details>
-<summary> <basic-select></summary>
+<summary>Basic select</summary>
 
 No. | Basic Select      |
 |---|-------------------|
