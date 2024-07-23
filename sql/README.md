@@ -1,7 +1,7 @@
 ## Code References
 
 <details>
-<summary>Basic select</summary>
+<summary>Basic SELECT</summary>
 
 No. | Basic Select      |
 |---|-------------------|
@@ -28,3 +28,15 @@ No. | Basic Select      |
 
 </details>
 
+<details>
+<summary>Advanced SELECT</summary>
+
+No. | Basic Select      |
+|---|-------------------|
+1   | [Type of triangle](https://github.com/Satyabratamishra246/hackerank-solutions/blob/78ade9dc9646956253457ea9d11c5247518cdc6c/sql/advanced-select/Type%20of%20Triangle.sql) |
+2   | [The pads](https://github.com/Satyabratamishra246/hackerank-solutions/blob/78ade9dc9646956253457ea9d11c5247518cdc6c/sql/advanced-select/The%20PADS.sql) |
+3   | [Occupations](https://github.com/Satyabratamishra246/hackerank-solutions/blob/78ade9dc9646956253457ea9d11c5247518cdc6c/sql/advanced-select/Occupations.sql) |
+4   | [Binary tree nodes](https://github.com/Satyabratamishra246/hackerank-solutions/blob/78ade9dc9646956253457ea9d11c5247518cdc6c/sql/advanced-select/Binary%20Tree%20Nodes.sql) |
+5   | [New companies](https://github.com/Satyabratamishra246/hackerank-solutions/blob/78ade9dc9646956253457ea9d11c5247518cdc6c/sql/advanced-select/New%20Companies.sql) |
+
+</details>
