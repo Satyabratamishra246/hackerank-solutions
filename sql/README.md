@@ -1,7 +1,6 @@
-## Code References
+## List
 
-<!-- <details>
-<summary>Basic SELECT</summary> -->
+
 
 No. | Basic Select      |
 |---|-------------------|
@@ -26,10 +25,7 @@ No. | Basic Select      |
 19  | [Employee Names](https://github.com/Satyabratamishra246/hackerank-solutions/blob/5a82d0c880287adc2051fd2efeadc462a482c654/sql/basic-select/Employee%20Names.sql) |
 20  | [Employees Salaries](https://github.com/Satyabratamishra246/hackerank-solutions/blob/5a82d0c880287adc2051fd2efeadc462a482c654/sql/basic-select/Employee%20Salaries.sql) |
 
-<!-- </details>
 
-<details>
-<summary>Advanced SELECT</summary> -->
 
 No. | Advanced Select |
 |---|-------------------|
@@ -39,7 +35,7 @@ No. | Advanced Select |
 4   | [Binary Tree Nodes](https://github.com/Satyabratamishra246/hackerank-solutions/blob/78ade9dc9646956253457ea9d11c5247518cdc6c/sql/advanced-select/Binary%20Tree%20Nodes.sql) |
 5   | [New Companies](https://github.com/Satyabratamishra246/hackerank-solutions/blob/78ade9dc9646956253457ea9d11c5247518cdc6c/sql/advanced-select/New%20Companies.sql) |
 
-<!-- </details> -->
+
 
 No. | Aggregation       |
 |---|-------------------|
