@@ -63,6 +63,19 @@ No. | Aggregation       |
 
 
 
+No. | Basic Join |
+|---|-------------------|
+1   | [Population Census](https://github.com/Satyabratamishra246/hackerank-solutions/blob/dc1df68db3e8f0b4ac4dd7ef808b868abe2864a5/sql/basic%20join/Population%20Census.sql) |
+2   | [African Cities](https://github.com/Satyabratamishra246/hackerank-solutions/blob/dc1df68db3e8f0b4ac4dd7ef808b868abe2864a5/sql/basic%20join/African%20Cities.sql) |
+3   | [Average Population of Each Continent](https://github.com/Satyabratamishra246/hackerank-solutions/blob/dc1df68db3e8f0b4ac4dd7ef808b868abe2864a5/sql/basic%20join/Average%20Population%20of%20Each%20Continent.sql) |
+4   | [The Report](https://github.com/Satyabratamishra246/hackerank-solutions/blob/dc1df68db3e8f0b4ac4dd7ef808b868abe2864a5/sql/basic%20join/The%20Report.sql) |
+5   | [Top Competitors](https://github.com/Satyabratamishra246/hackerank-solutions/blob/dc1df68db3e8f0b4ac4dd7ef808b868abe2864a5/sql/basic%20join/Top%20Competitors.sql) |
+6   | [Ollivander's Inventory](https://github.com/Satyabratamishra246/hackerank-solutions/blob/dc1df68db3e8f0b4ac4dd7ef808b868abe2864a5/sql/basic%20join/Ollivander's%20Inventory.sql) |
+7   | [Challenges](https://github.com/Satyabratamishra246/hackerank-solutions/blob/dc1df68db3e8f0b4ac4dd7ef808b868abe2864a5/sql/basic%20join/Challenges.sql) |
+8   | [Contest Leaderboard](https://github.com/Satyabratamishra246/hackerank-solutions/blob/dc1df68db3e8f0b4ac4dd7ef808b868abe2864a5/sql/basic%20join/Contest%20Leaderboard.sql) |
+
+
+
 No. | Alternative Queries|
 |---|-------------------|
 1   | [Draw The Triangle 1](https://github.com/Satyabratamishra246/hackerank-solutions/blob/e13cadca01f19a2e47b73e6a558357463fd2b9cd/sql/alternative%20queries/Draw%20The%20Triangle%201.sql) |
