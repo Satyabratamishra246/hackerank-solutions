@@ -31,7 +31,7 @@ No. | Basic Select      |
 <details>
 <summary>Advanced SELECT</summary> -->
 
-No. | Basic Select      |
+No. | Advanced Select |
 |---|-------------------|
 1   | [Type of Triangle](https://github.com/Satyabratamishra246/hackerank-solutions/blob/78ade9dc9646956253457ea9d11c5247518cdc6c/sql/advanced-select/Type%20of%20Triangle.sql) |
 2   | [The PADS](https://github.com/Satyabratamishra246/hackerank-solutions/blob/78ade9dc9646956253457ea9d11c5247518cdc6c/sql/advanced-select/The%20PADS.sql) |
@@ -62,3 +62,9 @@ No. | Aggregation       |
 17  | [Weather Observation Station 20](https://github.com/Satyabratamishra246/hackerank-solutions/blob/76bcef3529f1f3e04f4f7ddd7e8ec97a0850e2ce/sql/aggregation/Weather%20Observation%20Station%2020.sql) |
 
 
+
+No. | Alternative Queries|
+|---|-------------------|
+1   | [Draw The Triangle 1](https://github.com/Satyabratamishra246/hackerank-solutions/blob/e13cadca01f19a2e47b73e6a558357463fd2b9cd/sql/alternative%20queries/Draw%20The%20Triangle%201.sql) |
+2   | [Draw The Triangle 1](https://github.com/Satyabratamishra246/hackerank-solutions/blob/e13cadca01f19a2e47b73e6a558357463fd2b9cd/sql/alternative%20queries/Draw%20The%20Triangle%202.sql) |
+3   | [Print Prime Numbers](https://github.com/Satyabratamishra246/hackerank-solutions/blob/e13cadca01f19a2e47b73e6a558357463fd2b9cd/sql/alternative%20queries/Print%20Prime%20Numbers.sql) |
