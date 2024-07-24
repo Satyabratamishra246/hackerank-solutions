@@ -76,6 +76,15 @@ No. | Basic Join |
 
 
 
+No. | Advanced Join |
+|---|-------------------|
+1   | [SQL Project Planning](https://github.com/Satyabratamishra246/hackerank-solutions/blob/401b020fa46c1e0d63266a4714f79b499ae9e156/sql/advanced-join/SQL%20Project%20Planning.sql) |
+2   | [Placements](https://github.com/Satyabratamishra246/hackerank-solutions/blob/401b020fa46c1e0d63266a4714f79b499ae9e156/sql/advanced-join/Placements.sql) |
+3   | [Symmetric Pairs](https://github.com/Satyabratamishra246/hackerank-solutions/blob/401b020fa46c1e0d63266a4714f79b499ae9e156/sql/advanced-join/Symmetric%20Pairs.sql) |
+4   | [Interviews](https://github.com/Satyabratamishra246/hackerank-solutions/blob/401b020fa46c1e0d63266a4714f79b499ae9e156/sql/advanced-join/Interviews.sql) |
+5   | [15 Days of Learning SQL](https://github.com/Satyabratamishra246/hackerank-solutions/blob/401b020fa46c1e0d63266a4714f79b499ae9e156/sql/advanced-join/15%20Days%20of%20Learning%20SQL.sql) |
+
+
 No. | Alternative Queries|
 |---|-------------------|
 1   | [Draw The Triangle 1](https://github.com/Satyabratamishra246/hackerank-solutions/blob/e13cadca01f19a2e47b73e6a558357463fd2b9cd/sql/alternative%20queries/Draw%20The%20Triangle%201.sql) |
